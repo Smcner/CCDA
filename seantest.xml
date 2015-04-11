@@ -21,14 +21,14 @@
         <country>USA</country>
         <postalCode>10003</postalCode>
       </addr>
-      <telecom value="315-601-3624"/>
+      <telecom value="917-555-5555"/>
       <patient>
         <name>
           <family>TEST</family>
           <given>SEAN</given>
         </name>
         <administrativeGenderCode code="M" codeSystem="2.16.840.1.113883.5.1"/>
-        <birthTime value="19830914"/>
+        <birthTime value="19800514"/>
         <raceCode code="2106-3" codeSystem="2.16.840.1.113883.6.238" displayName="White"/>
         <ethnicGroupCode code="2186-5" codeSystem="2.16.840.1.113883.6.238" displayName="Not Hispanic or Latino"/>
         <languageCommunication>
@@ -76,7 +76,7 @@
           <id root="42281b78-9c87-4785-8b40-0754424649df"/>
           <addr>
             <city>NEW YORK</city>
-            <streetAddressLine>288 LEXINGTON AVE</streetAddressLine>
+            <streetAddressLine>123 LEXINGTON AVE</streetAddressLine>
             <state>NY</state>
             <country nullFlavor="UNK"/>
             <postalCode>100163565</postalCode>
